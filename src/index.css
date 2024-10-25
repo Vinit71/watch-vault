@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-next {
+    display: none; /* Hide the right arrow */
+}
+
+.scroll-hidden::-webkit-scrollbar {
+    display: none;
+  }
+
+  
